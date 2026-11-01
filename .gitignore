@@ -1,0 +1,10 @@
+# Exclude raw unorganized screenshots (keep organized folder copies only)
+Screenshot*.png
+
+# Exclude original course PDF brief
+EWB-Courses-AWS-VPC-Peering-Student-Project.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
